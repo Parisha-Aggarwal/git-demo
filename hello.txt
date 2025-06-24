@@ -1,0 +1,2 @@
+hey this is my first git file
+let's see what we do
